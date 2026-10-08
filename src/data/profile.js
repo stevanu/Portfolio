@@ -90,7 +90,7 @@ export const projects = [
     title: "Brewclean.shoes",
     text: "Website jasa cuci dan perawatan sepatu di Pondok Aren, Tangerang Selatan, lengkap dengan paket layanan Fast Clean, Deep Clean, Hard Clean, dan Kids Shoes Clean.",
     link: "https://brewclean.shoescare.workers.dev/",
-    tags: ["Cloudflare Workers", "SEO"],
+    tags: ["React.js", "Cloudflare Workers", "SEO"],
   },
   {
     tone: "dev",
