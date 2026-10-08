@@ -186,7 +186,7 @@ export const jobs = [
   },
   {
     type: "oth",
-    date: "Maret 2020 - Februari 2021",
+    date: "Maret 2020 - April 2021",
     title: "Game Master",
     company: "Dragon Nest Academia",
     points: [
