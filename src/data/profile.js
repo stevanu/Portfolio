@@ -2,7 +2,6 @@ export const profile = {
   name: "Stevanu Dika Pratama",
   email: "Stevanu17@gmail.com",
   whatsapp: "https://wa.me/6282118987548",
-  linkedin: "https://www.linkedin.com/in/stevanudikapratama",
   location: "Cimahi Utara, Jawa Barat",
   intro:
     "Saya Stevanu Dika Pratama, lulusan Sistem Informasi. Saya membangun antarmuka web yang rapi dan responsif, lalu mengujinya agar setiap fitur berjalan sesuai kebutuhan pengguna.",

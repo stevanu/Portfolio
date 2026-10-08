@@ -26,10 +26,6 @@ export default function ContactSection() {
           <Button href={profile.whatsapp} variant="light">
             WhatsApp
           </Button>
-
-          <Button href={profile.linkedin} variant="lightOutline">
-            LinkedIn
-          </Button>
         </div>
       </div>
     </section>
