@@ -118,7 +118,7 @@ export const projects = [
   },
   {
     tone: "dev",
-    title: "Website Dragon Nest",
+    title: "Dragon Nest Academia",
     text: "Ikut membuat website admin dan pemain, menyusun database, dan men-deploy game di AWS EC2.",
     tags: ["PHP", "Bootstrap", "AWS EC2"],
   },
